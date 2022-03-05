@@ -1,0 +1,60 @@
+.centrado{
+    left: 670px;
+    top: 20.91px;
+    }
+
+header{
+    background-color: #E6E6E6;
+} 
+
+.batman{
+    text-align: center;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    background-color: #C4C4C4;
+    text-align: center;
+    font-size: 35px;
+    color: #005677;
+    letter-spacing: 10px;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+    color: #005677;
+    font-size: 20px;
+}
+
+ul li span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.espacioEnBlanco{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+ul li p {
+    font-weight: bold;
+}
+
+ul li ul li{
+    list-style: none;
+}
+
+footer {
+    background-color: #005677;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+}
